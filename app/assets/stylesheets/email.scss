@@ -1,0 +1,40 @@
+// Place all the styles related to the email controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+#conteneur
+{
+   width:300px; 
+   margin-top:20px; 
+   padding-bottom:25px; 
+   background-image:url(images/fond.jpg); 
+   padding-top:5px;
+}
+ 
+#colonne1
+{
+   width:140px; 
+   height:100px; 
+   background-color:#0033CC; 
+   float:left;
+   font-size: 20px;
+}
+ 
+#colonne2
+{
+   width:140px; 
+   height:60px; 
+   background-color:#0033CC; 
+   float:right;
+}
+ 
+#bas
+{
+   clear:both;
+}
+
+#object
+{
+	font-size: 25px;
+}

@@ -1,0 +1,42 @@
+<h1> EMAIL AJAX </h1>
+
+
+<div id="conteneur">
+ 
+   <div id="colonne1">
+
+<% @emails.each do |email| %>
+  <tr>
+    <td><%= email.object %></td>
+  </tr>
+  <br>
+<% end %>
+
+   </div>
+ 
+   <div id="colonne2">
+
+<% @emails.each do |email| %>
+ <tr>
+    <div id="object">
+
+    	<td><%= email.object %></td>
+    
+    </div>
+
+
+    <div id="body">
+
+    <td><%= email.body %></td>
+  
+	</div>
+  </tr>
+<br>
+<% end %>
+
+   </div>
+ 
+   <div id="bas">
+   </div>
+ 
+</div>

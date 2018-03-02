@@ -1,24 +1,18 @@
-# README
+# AJAX
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+----------------------------------------
 
-Things you may want to cover:
+![univers](http://www.lesaffaires.com/uploads/images/normal/31260959243c3cb7018bca3ef4e3fd9b.jpg)
 
-* Ruby version
+Salut à toi, 
 
-* System dependencies
+C'était le minimum syndical aujourd'hui. J'ai 2 colonnes avec les mails avec le Title et l'Object. 2 lignes que j'ai rentré en console. 
 
-* Configuration
+Lien Heroku : https://immense-lowlands-69675.herokuapp.com/
 
-* Database creation
+Terminé les exos.
 
-* Database initialization
+Cordialement cher moussaillon, 
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![Koy](https://image.noelshack.com/fichiers/2018/05/4/1517512365-koyote.png)
+ **Koyote** ![Koy](https://image.noelshack.com/fichiers/2018/05/4/1517512365-koyote.png)

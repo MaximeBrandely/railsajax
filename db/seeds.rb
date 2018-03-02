@@ -3,5 +3,8 @@
 #
 # Examples:
 #
-#   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
+#   email = Email.create([{ object: 'Star Wars' }, { body: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+
+email = Email.create([{ object: 'Star Wars' }, { body: 'Lord of the Rings' }])
